@@ -1,5 +1,5 @@
 homepage: "https://convery.io/"
 documentation: "https://www.example.com/documentation"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: 61627a40ad04a1f8941af81bd9c1a4538535880f
     changeNotes: Initial release.
