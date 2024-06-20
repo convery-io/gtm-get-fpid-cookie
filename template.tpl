@@ -14,7 +14,6 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Convery - Get FPID Cookie value",
-  "categories": ["ANALYTICS"],
   "description": "This GTM Variable Template extracts FPID Cookie value for you.",
   "containerContexts": [
     "SERVER"
@@ -69,6 +68,6 @@ scenarios: []
 
 ___NOTES___
 
-Created on 30/05/2024, 20:17:43
+Created on 20/06/2024, 18:01:34
 
 
